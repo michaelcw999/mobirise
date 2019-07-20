@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "hugo valet",
+    "name": "via valet",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,8 @@
     "siteUrl": "http://hugo.xyz",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsSwitcher": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
