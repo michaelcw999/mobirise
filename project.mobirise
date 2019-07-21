@@ -470,7 +470,7 @@
           "_anchor": "header1-2",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script\n                  src=\"https://checkout.stripe.com/checkout.js\" class=\"stripe-button\"\n                  data-key=\"pk_test_1MCYLYHQDa4DwnBoKd5CqoaP\"\n                  data-image=\"https://stripe.com/img/documentation/checkout/marketplace.png\"\n                  data-name=\"Demo SaaS Site\"\n                  data-description=\"Via Subscription ($19.95 per month)\"\n                  data-panel-label=\"Subscribe Now\"\n                  data-label=\"Subscribe\"\n                  data-amount=\"2900\"\n                  data-allow-remember-me=\"true\">\n\t\t\t\t</script>"
+            "<script\n                  src=\"https://checkout.stripe.com/checkout.js\" class=\"stripe-button\"\n                  data-key=\"pk_test_1MCYLYHQDa4DwnBoKd5CqoaP\"\n                  data-image=\"https://stripe.com/img/documentation/checkout/marketplace.png\"\n                  data-name=\"Demo SaaS Site\"\n                  data-description=\"Via Subscription ($19.95 per month)\"\n                  data-panel-label=\"Subscribe Now\"\n                  data-label=\"Subscribe Now\"\n                  data-amount=\"1995\"\n                  data-allow-remember-me=\"true\">\n\t\t\t\t</script>"
           ],
           "_protectedParams": [],
           "_global": false,
